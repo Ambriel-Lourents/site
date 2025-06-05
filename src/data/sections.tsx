@@ -49,33 +49,26 @@ export const sections = [
         <div className="space-y-4 mb-8">
           {[
             {
-              company: "",
-              date: "2024 - Now",
-              title: "",
-              description: [""],
+              company: "Jelle",
+              date: "2025 - Now",
+              title: "IT Support Engineer",
+              description: ["working on automating systems"],
               dotColor: "bg-blue-500"
             },
             {
-              company: "",
-              date: "2020 - 2024",
+              company: "Hogeschool van Amsterdam",
+              date: "2022 - 2024",
               title: "A.D Cybersecurity",
               description: ["got my degree to make my parents proud"],
               dotColor: "bg-amber-300"
             },
             {
-              company: "",
-              date: "2023 - 2023",
-              title: "",
-              description: [""],
+              company: "Techone",
+              date: "2023 - 2024",
+              title: "Internship",
+              description: ["workplace tech guy"],
               dotColor: "bg-green-500"
             },
-            {
-              company: "",
-              date: "",
-              title: "",
-              description: [""],
-              dotColor: "bg-red-500"
-            }
           ].map((item) => (
             <div key={item.company + item.date} className="relative">
               <div 
@@ -118,26 +111,26 @@ export const sections = [
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 mb-12">
           {[
             {
-              title: "",
-              description: "",
-              stats: "",
-              color: "rose"
+              title: "Youtube",
+              description: "I haven't uploaded since 04 but hey.",
+              stats: "18 videos",
+              color: "green"
             },
             {
-              title: "",
-              description: "playing monopoly but with real money",
-              stats: "",
+              title: "Sleeping",
+              description: "Me and the bed are one.",
+              stats: "Hibernator",
               color: "blue"
             },
             {
               title: "Stocks and Crypto",
-              description: "buying high and selling low is my philosophy",
-              stats: "-$25,000 profit",
-              color: "green"
+              description: "Buying high and selling low is my philosophy, yeah that's what she said.",
+              stats: "no profit here :(",
+              color: "rose"
             },
             {
               title: "Mechanical Keyboards",
-              description: "why they gotta be so expensive?!",
+              description: "Why they gotta be so expensive?!",
               stats: "2 custom keyboards",
               color: "purple"
             },

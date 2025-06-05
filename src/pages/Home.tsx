@@ -35,7 +35,7 @@ const Home = () => {
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.5, delay: 1.2 }}
           >
-            your average car,bike and code enthousiast trying to become a cybersecurity engineer.
+            your average car, bike geek and code enthousiast trying to become a cybersecurity engineer.
           </motion.p>
         </section>
       </FadeInSection>

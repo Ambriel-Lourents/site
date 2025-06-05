@@ -91,9 +91,8 @@ const Gear = () => {
           image: "https://m.media-amazon.com/images/I/614U66QoZQL._AC_SY355_.jpg"
         },
       ]
-    },
-      ]
     }
+  ];
 
   return (
     <div>
