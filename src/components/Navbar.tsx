@@ -29,7 +29,7 @@ const Navbar = () => {
           {/* Added Logo/Icon */}
           <Link to="/" className="flex items-center space-x-2">
             <img 
-              src=""
+              src="https://raw.githubusercontent.com/Ambriel-Lourents/site/refs/heads/main/src/assetts/images/1.gif"
               alt="Ambriel Lourents logo" 
               className="w-8 h-8"
             />
