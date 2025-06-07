@@ -5,15 +5,15 @@ import { GalleryImage } from '../types';
 const galleryImages: GalleryImage[] = [
   {
     id: 1,
-    src: '/images/gallery/setup.jpg',
-    caption: 'My Current Desk Setup',
-    alt: 'A clean desk setup with dual monitors'
+    src: '/images/gallery/',
+    caption: '',
+    alt: ''
   },
   {
     id: 2,
-    src: '/images/gallery/keyboard.jpg',
-    caption: 'Custom Mechanical Keyboard Build',
-    alt: 'Custom mechanical keyboard with RGB lighting'
+    src: '/images/gallery/',
+    caption: '',
+    alt: ''
   },
   // Add more images as needed
 ];

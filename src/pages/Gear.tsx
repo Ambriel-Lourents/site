@@ -76,7 +76,7 @@ const Gear = () => {
           name: "Tecurs MR02",
           description: "XLR/USB Microphone",
           link: "https://www.amazon.com/Microphone-TECURS-Condenser-Compatible-MR02/dp/B09KLL9QHT/ref=mp_s_a_1_3?crid=14GT51BEBARBR&dib=eyJ2IjoiMSJ9.fk0CEYHs9AniCLQAC6nBKr9QdYsO4bGbickzQ3c64CwQ5DYh-vXRf9lgWrdnNec9Ndi5j4HiOpXLFzej5zoronA8_2dzOkP0h6lkrK2rGpApbH26fx8DswvGSBQEyJb76NG21Ult_8P1aitj22gwPukZODlQCfoD-oCO2zIg77GsPJ8tYe9rL_jySf16yj73C2ijalCPzgE7PeHOSTb18w.HoRpdgF8idWlhNuvDExkJ_y1tZSlbUnJwQwdBtj6KG4&dib_tag=se&keywords=tecure+mic+pc&qid=1749128882&sprefix=tecure+mic+p%2Caps%2C347&sr=8-3",
-          image: "https://m.media-amazon.com/images/I/71ghbks6o1L._AC_SL1500_.jpg"
+          image: "https://m.media-amazon.com/images/I/71A7XJbdIXL._AC_SY450_.jpg"
         },
         {
           name: "HUANUO Dual Monitor Arm",

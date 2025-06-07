@@ -3,41 +3,36 @@ import { Project } from '../components/Project';
 
 const projects = [
   {
-    title: "",
-    description: "",
+    title: "Encrypt/Decrypter",
+    description: "Encrypt and Decrypt files.",
     tech: [
+      { name: "Python", color: "cyan" },
+      { name: "Node.js", color: "green" },
+      { name: "HTML", color: "orange" },
+    ],
+    link: "https://github.com/Ambriel-Lourents/Learning-Projects/tree/main/cryptography",
+    previewImage: "https://raw.githubusercontent.com/Ambriel-Lourents/site/refs/heads/main/src/assetts/images/6.jpg"
+  },
+  {
+    title: "Personal Site",
+    description: "This site!",
+    tech: [
+      { name: "React", color: "cyan" },
       { name: "TypeScript", color: "blue" },
-      { name: "React", color: "cyan" },
-      { name: "Next.js", color: "neutral" },
-      { name: "Node.js", color: "green" },
-      { name: "Express.js", color: "amber" },
-      { name: "AWS", color: "orange" }
+      { name: "Vite", color: "yellow" },
+      { name: "Tailwind CSS", color: "neutral" },
     ],
-    link: "",
-    previewImage: ""
+    link: "https://github.com/Ambriel-Lourents/site",
+    previewImage: "https://raw.githubusercontent.com/Ambriel-Lourents/site/refs/heads/main/src/assetts/images/7.jpg"
   },
   {
-    title: "",
+    title: "Random Password Generator",
     description: "",
     tech: [
-      { name: "React", color: "cyan" },
-      { name: "JavaScript", color: "yellow" },
-      { name: "Node.js", color: "green" },
-      { name: "Supabase", color: "emerald" }
-    ],
-    link: "",
-    previewImage: ""
-  },
-  {
-    title: "",
-    description: "",
-    tech: [
-      { name: "React", color: "cyan" },
-      { name: "Spotify API", color: "emerald" },
-      { name: "JavaScript", color: "yellow" },
+      { name: "Python", color: "cyan" },
       { name: "Node.js", color: "green" },
     ],
-    link: "",
+    link: "https://github.com/Ambriel-Lourents/Random-Password-Generator",
     previewImage: ""
   }
 ];
